@@ -1,7 +1,7 @@
-PABLO CORAL
+PABLO CORAL,
 AI PROJECT PART 3 - self code using autokeras
 
-- Utilized Autokeras to run an ML model to predit sea turtle species
+- Utilized Autokeras to run an ML model to predict sea turtle species
 - "Cammy" bot was unable to recognize image URLs, which is why it was not used.
 
 MUST follow the following folder struct:
